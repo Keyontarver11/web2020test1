@@ -1,0 +1,174 @@
+body{
+    padding:0;
+    margin:0;
+}
+
+/* Q1
+
+.cont{
+    background-color: black;
+    width: 600px;
+    margin: 0 auto;
+    display:flex;
+flex-direction:row;
+justify-content: space-between;
+  }
+  .box{
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+  } */
+
+
+/* //Q2
+
+.cont{
+    background-color: black;
+    width: 600px;
+    margin: 0 auto;
+    display:flex;
+flex-direction:column;
+justify-content: flex-start;
+
+
+height:200px;
+  }
+  .box{
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    margin-bottom: 15px;
+  } */
+
+/* Q3
+  
+  .cont{
+    background-color: black;
+    width: 600px;
+    margin: 0 auto;
+    display:flex;
+    display:flex;
+flex-direction:column;
+align-items:center;
+justify-content:space-evenly;
+height:200px;
+
+  }
+  .box{
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    margin-bottom:15px;
+  } */
+
+  /* Q4
+  .cont{
+    background-color: black;
+    width: 600px;
+    margin: 0 auto;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+
+  }
+  .box{
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    margin-right:20px;
+    margin-top:10px;
+    margin-bottom:10px;
+  } */
+
+  /* Q5 
+
+  .cont{
+    background-color: black;
+    width: 600px;
+    margin: 0 auto;
+    display:flex;
+flex-direction:row;
+justify-content:center;
+height:300px;
+  }
+  .box{
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    margin-right:20px;
+    margin-top:10px;
+    margin-bottom:10px;
+  }
+
+  .boxx{
+      align-self: flex-end;
+
+  } */
+
+  /* Q6
+
+  
+  .cont{
+    background-color: black;
+    width: 600px;
+    margin: 0 auto;
+    display:flex;
+flex-direction:row;
+justify-content:space-around;
+height:300px;
+  }
+  .box{
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    margin-right:20px;
+    margin-top:10px;
+    margin-bottom:10px;
+  }
+
+  .boxx{
+    align-self: flex-end;
+} */
+
+/* Q7
+
+  
+  .cont{
+    background-color: black;
+    width: 600px;
+    margin: 0 auto;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+  }
+  .box{
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    margin-right:10px;
+    margin-left:10px;
+    margin-top:10px;
+    margin-bottom:10px;
+  } */
+
+   /* Q8
+
+  
+  .cont{
+    background-color: black;
+    width: 600px;
+    margin: 0 auto;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+  }
+  .box{
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    margin-right:10px;
+    margin-left:10px;
+    margin-top:10px;
+    margin-bottom:10px;
+    flex-grow: 1;
+  }  */
